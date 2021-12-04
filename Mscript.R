@@ -22,5 +22,5 @@ text_tok %>% count(word, sort = TRUE) %>%
 text_tok %>% 
   anti_join(stop_words) %>% #remove stop words
   count(word) %>%
-  with(wordcloud(word, n, max.words = 15))
+  with(wordcloud(word, n, max.words = 15)) #plot the wordcloud
 
