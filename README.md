@@ -1,7 +1,7 @@
 # First approach to text mining in pdf files with R
 ## Introduction
 
-First approach to text mining from PDF files. It's defined as the process of deriving quality information from text, text mining, is an approach to obtain and tie information from several resources. In this case pdf files.
+First approach to text mining from PDF files. It's defined as the process of deriving quality information from text. Text mining, is an approach to obtain and tie information from several resources. In this case pdf files.
 
 ## Technologies
 - R
